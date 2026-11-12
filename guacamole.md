@@ -5,3 +5,4 @@
 * salt (1 euro) 
 * pepper (1 euro)
 ## Instructions
+* peel the avocado 
