@@ -6,3 +6,4 @@
 * pepper (1 euro)
 ## Instructions
 * peel the avocado 
+* cut it into pieces 
